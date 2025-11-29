@@ -1,0 +1,5 @@
+app = "vanguard-tickets-js"
+primary_region = "fra"
+
+[env]
+NODE_ENV = "production"

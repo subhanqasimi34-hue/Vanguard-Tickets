@@ -1,0 +1,23 @@
+{
+  "guilds": {
+    "123456789012345678": {
+      "panelChannelId": "DEIN_PANEL_CHANNEL",
+      "logChannelId": "DEIN_LOG_CHANNEL",
+      "ticketCategoryId": "DEINE_TICKET_KATEGORIE",
+      "supportRoleId": "DEINE_SUPPORT_ROLLE",
+      "categories": [
+        { "id": "billing", "name": "Billing" },
+        { "id": "support", "name": "Support" }
+      ],
+      "priorities": ["normal", "urgent"],
+      "cooldown": 600,
+      "autoCloseHours": 24,
+      "autoClaim": true,
+      "ticketTemplate": [],
+      "ticketCount": 0,
+      "openTickets": [],
+      "blacklist": [],
+      "settingsComplete": true
+    }
+  }
+}
